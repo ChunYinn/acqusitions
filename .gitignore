@@ -1,0 +1,18 @@
+node_modules/
+dist/
+logs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build cache / coverage
+tsconfig.tsbuildinfo
+coverage/
+
+# OS/editor noise
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
