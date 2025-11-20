@@ -21,7 +21,8 @@
       "#routes/*": ["routes/*"],
       "#middleware/*": ["middleware/*"],
       "#utils/*": ["utils/*"],
-      "#validations/*": ["validations/*"]
+      "#validations/*": ["validations/*"],
+      "#services/*": ["services/*"]
     }
   },
   "include": ["src/**/*.ts"],
